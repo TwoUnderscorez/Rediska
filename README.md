@@ -1,3 +1,7 @@
+# Pull requests
+
+https://github.com/pepelev/Rediska/pull/2
+
 # Rediska
 
 Rediska is [Redis](https://redis.io/) client for .NET with a focus on flexibility and extensibility.
