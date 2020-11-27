@@ -1,6 +1,6 @@
 # Pull requests
 
-https://github.com/pepelev/Rediska/pull/2
+#2: [Add the field parameter to the HGET command](https://github.com/pepelev/Rediska/pull/2)
 
 # Rediska
 
